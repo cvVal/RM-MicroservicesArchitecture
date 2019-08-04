@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9577396-ea5e-4021-a98c-0fe0c6ad3149" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/currency-conversion-service/target/" />
+    <ignored path="$PROJECT_DIR$/currency-exchange-service/target/" />
+    <ignored path="$PROJECT_DIR$/limits-service/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-eureka-naming-server/target/" />
+    <ignored path="$PROJECT_DIR$/netflix-zuul-api-gateway-server/target/" />
+    <ignored path="$PROJECT_DIR$/restful-udemy-curse/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/restful-microservice/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/bean/LimitsConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/LimitsServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/LimitsConfigurationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/Configuration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>b84c4fd01a3a5808</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/exceptions/CustomizedResponseEntityExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/pom.xml" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/exceptions/ExceptionResponse.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/filtering/SomeBean.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/helloworld/HelloWorldBean.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/Post.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/PostRepository.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/User.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/exceptions/UserNotFoundException.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/UserRepository.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/versioning/Name.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/versioning/PersonV2.java" />
+        <option value="$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/versioning/PersonV1.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/web/services/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/web/services/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/web/services/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/src/main/java/com/web/services/microservices/currencyconversionservice/controller/ConversionController.java" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/src/main/java/com/web/services/microservices/currencyexchangeservice/controller/ExchangeController.java" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/restful-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/LimitsServiceApplication.java" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/bean/LimitsConfiguration.java" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/Configuration.java" />
+        <option value="$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/LimitsConfigurationController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service-dev.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="808" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="limitsservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="limits-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="limitsservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservices" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="git-localconfig-repo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LimitsServiceApplication8080">
+    <configuration name="CurrencyConversionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-conversion-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.microservices.currencyconversionservice.CurrencyConversionServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyExchangeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="currency-exchange-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.microservices.currencyexchangeservice.CurrencyExchangeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication8080" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="limits-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.microservices.limitsservice.LimitsServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LimitsServiceApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="limits-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.microservices.limitsservice.LimitsServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8081" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixEurekaNamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-eureka-naming-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.microservices.netflixeurekanamingserver.NetflixEurekaNamingServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetflixZuulApiGatewayServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="netflix-zuul-api-gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.microservices.netflixzuulapigatewayserver.NetflixZuulApiGatewayServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfulUdemyCurseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="restful-udemy-curse" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.restfuludemycurse.RestfulUdemyCurseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.services.microservices.springcloudconfigserver.SpringCloudConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CurrencyConversionServiceApplication" />
+      <item itemvalue="Spring Boot.CurrencyExchangeServiceApplication" />
+      <item itemvalue="Spring Boot.LimitsServiceApplication8080" />
+      <item itemvalue="Spring Boot.LimitsServiceApplication8081" />
+      <item itemvalue="Spring Boot.NetflixEurekaNamingServerApplication" />
+      <item itemvalue="Spring Boot.NetflixZuulApiGatewayServerApplication" />
+      <item itemvalue="Spring Boot.RestfulUdemyCurseApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConfigServerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9577396-ea5e-4021-a98c-0fe0c6ad3149" name="Default Changelist" comment="" />
+      <created>1564874311202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564874311202</updated>
+      <workItem from="1564874312544" duration="20724000" />
+    </task>
+    <task id="LOCAL-00001" summary="update maximum value for dev">
+      <created>1564931363840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564931363840</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update values for dev">
+      <created>1564932190561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564932190561</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update values for dev">
+      <created>1564935599363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564935599363</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update values for dev">
+      <created>1564935809607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564935809607</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update values for dev">
+      <created>1564935898710</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564935898710</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update values for dev">
+      <created>1564936240144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564936240144</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20724000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="808" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="1440" y="-288" width="1920" height="1058" id="Run" maximized="true" order="2" type="WINDOWED" visible="true" weight="0.476257" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.4613734" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update maximum value for dev" />
+    <MESSAGE value="update values for dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="update values for dev" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/exceptions/UserNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/UserDaoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/UserJPAController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/user/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/versioning/PersonV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/versioning/Name.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/versioning/PersonV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/versioning/PersonVersioningController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/java/com/web/services/restfuludemycurse/RestfulUdemyCurseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/resources/messages.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-udemy-curse/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-config/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service-qa.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/web/services/microservices/currencyexchangeservice/model/ExchangeValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/web/services/microservices/currencyexchangeservice/repository/ExchangeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/web/services/microservices/currencyconversionservice/model/CurrencyConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/web/services/microservices/netflixzuulapigatewayserver/config/ZuulLoggingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/web/services/microservices/currencyconversionservice/config/CurrencyExchangeServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/src/main/java/com/web/services/microservices/netflixzuulapigatewayserver/NetflixZuulApiGatewayServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/web/services/microservices/currencyexchangeservice/CurrencyExchangeServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/web/services/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/src/main/java/com/web/services/microservices/currencyconversionservice/controller/ConversionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/src/main/java/com/web/services/microservices/currencyexchangeservice/controller/ExchangeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/src/main/java/com/web/services/microservices/netflixeurekanamingserver/NetflixEurekaNamingServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/src/main/java/com/web/services/microservices/springcloudconfigserver/SpringCloudConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-bus-amqp/2.1.2.RELEASE/spring-cloud-starter-bus-amqp-2.1.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.1.7.RELEASE/spring-rabbit-2.1.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-conversion-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-exchange-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-eureka-naming-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netflix-zuul-api-gateway-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restful-microservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="66" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/bean/LimitsConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config-server/git-localconfig-repo/limits-service-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/LimitsServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/limits-service/src/main/java/com/web/services/microservices/limitsservice/LimitsConfigurationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="93" selection-start-line="17" selection-start-column="93" selection-end-line="17" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
